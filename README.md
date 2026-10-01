@@ -4,14 +4,6 @@
 
 ---
 
-## 🌐 Live Application & Links
-
-- **Live Production URL:** [https://hiregrid-phi.vercel.app/](https://hiregrid-phi.vercel.app/)
-- **GitHub Repository:** [https://github.com/alok-jp/hiring-pipeline/](https://github.com/alok-jp/hiring-pipeline/)
-- **Reviewer Documentation:** See [`SUBMISSION.md`](./SUBMISSION.md) for self-evaluation checklist and reviewer notes.
-
----
-
 ## 🏢 Real-World Business Scenario
 
 ### The Problem
