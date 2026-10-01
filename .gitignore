@@ -49,3 +49,8 @@ next-env.d.ts
 
 # generated prisma client
 /src/generated/prisma
+
+# test findings reports
+*TEST_FINDINGS*
+SEPTEMBER_15_TEST_FINDINGS_REPORT.md
+
