@@ -41,6 +41,7 @@ export function InterviewerCandidateWorkspace({
 
   if (isLoading) {
     return (
+      
       <div className="space-y-4 max-w-4xl mx-auto py-8">
         <div className="skeleton w-36 h-8" />
         <div className="skeleton w-full h-48" />

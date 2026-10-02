@@ -55,7 +55,7 @@ const RECOMMENDATION_LABELS: Record<
 
 export function InterviewFeedback({
   applicationId,
-  isAssignedInterviewer = true,
+  isAssignedInterviewer = true, 
 }: InterviewFeedbackProps) {
   const utils = trpc.useUtils();
 
